@@ -65,9 +65,8 @@ The dataset contains **100,000+ ride records**, which were extracted, cleaned, a
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+<img width="1286" height="728" alt="image" src="https://github.com/user-attachments/assets/d3235c50-8c0a-4d61-a25d-836ef2969b79" />
 
-> Replace **dashboard.png** with your actual Power BI dashboard screenshot.
 
 ---
 
