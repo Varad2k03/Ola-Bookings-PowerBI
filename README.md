@@ -93,9 +93,7 @@ This dashboard enables stakeholders to:
 ---
 
 ## 📂 Project Files
-Ola-Bookings-Data-Analysis
-│
-├── Ola Data Analytics.pbix
-├── README.md
-
-## 📂 Project Files
+Ola-Bookings-Data-Analysis</br>
+│</br>
+├── Ola Data Analytics.pbix</br>
+├── README.md</br>
