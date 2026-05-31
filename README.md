@@ -65,7 +65,8 @@ The dataset contains **100,000+ ride records**, which were extracted, cleaned, a
 
 ## 📷 Dashboard Preview
 
-<img width="1286" height="728" alt="image" src="https://github.com/user-attachments/assets/d3235c50-8c0a-4d61-a25d-836ef2969b79" />
+<img width="1286" height="725" alt="image" src="https://github.com/user-attachments/assets/9d0c538e-779d-44d3-8c2a-c143df77d978" />
+
 
 
 ---
